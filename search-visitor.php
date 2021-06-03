@@ -58,13 +58,13 @@ if (strlen($_SESSION['avmsaid']==0)) {
         <!-- END MENU SIDEBAR-->
 
         <!-- PAGE CONTAINER-->
-        <div class="page-container">
+        <div class="page-container" style="background-color: lightcoral;">
             <!-- HEADER DESKTOP-->
             <?php include_once('includes/header.php');?>
             <!-- END HEADER DESKTOP-->
 
             <!-- MAIN CONTENT-->
-            <div class="main-content" style="style="background-color: lightcoral;">
+            <div class="main-content" style="background-color: lightcoral;">
                 <div class="section__content section__content--p30">
                     <div class="container-fluid">
                         <div class="row">
