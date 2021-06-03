@@ -74,7 +74,7 @@ $reasontomeet=$_POST['reasontomeet'];
         <!-- HEADER MOBILE-->
         <?php include_once('includes/sidebar.php');?>
    
-        <div class="page-container">
+        <div class="page-container" style="background-color: lightcoral;">
             <!-- HEADER DESKTOP-->
             <?php include_once('includes/header.php');?>
             <!-- HEADER DESKTOP-->
