@@ -4,22 +4,24 @@
 
 How to run the Apartment Visitors Management System (AVMS) Project
 
-1. Download the  zip file
 
-2. Extract the file and copy avms folder
+1. Copy all files except sql folder in a folder, name the folder as avms.
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+2.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+3. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with name avmsdb
+4. Create a database with name avmsdb
 
-6. Import avmsdb.sql file(given inside the zip package in SQL file folder)
+5. Import avmsdb.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/avms (frontend)
+6.Run the script http://localhost/avms (frontend)
 
-Credential for admin panel :
+7.Credential for admin panel :
 
-Username: admin
+8.Username: admin
 
 Password: Test @123
+
+## Login page
+
